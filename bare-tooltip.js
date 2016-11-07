@@ -4,9 +4,6 @@
     v0.2.6
 
 */
-
-console.log("BARE TOOLTIP");
-
 (function() {
 
 "use strict";
