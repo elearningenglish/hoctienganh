@@ -5,6 +5,8 @@
 
 */
 
+console.log("BARE TOOLTIP");
+
 (function() {
 
 "use strict";
